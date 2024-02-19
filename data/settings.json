@@ -6,7 +6,7 @@
   "showGithub": false,
   "title": "发现AI - 精选实用免费AI网站",
   "description": "发现导航 - 精选实用免费AI网站",
-  "keywords": "导航,前端资源,社区站点,设计师,实用工具,学习资源,运营,网络安全,node.js",
+  "keywords": "导航,AI,ChatGPT,免费AI,API,deepseek,白嫖",
   "theme": "Light",
   "appTheme": "App",
   "headerContent": "<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-GRGVPLWSNM\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-GRGVPLWSNM');\n</script>",
