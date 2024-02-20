@@ -1,4 +1,10 @@
 {
+  "博客": {
+    "createdAt": "2024-02-20T03:48:07.666Z",
+    "color": "#f50000",
+    "desc": "博客",
+    "isInner": false
+  },
   "linuxdo": {
     "createdAt": "2024-02-19T08:15:14.815Z",
     "color": "#f50000",
